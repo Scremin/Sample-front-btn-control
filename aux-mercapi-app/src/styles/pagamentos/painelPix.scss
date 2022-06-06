@@ -1,0 +1,24 @@
+.box_painelPix {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 4px;
+
+    //border: 1px solid red;
+}
+.box_painelPix .main_btn_painelPix {
+    display: flex;
+
+    margin: 4px;
+
+    //border: 1px solid red;
+}
+.box_painelPix .main_view_painelPix {
+    display: flex;
+    justify-content: center;
+
+    margin: 4px;
+
+    //border: 1px solid red;
+}
