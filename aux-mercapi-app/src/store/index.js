@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    path_api:'https://newmercapi.herokuapp.com/loop_email_ljygkuvylYVLYVljyvljhvlLJVHLJHVHKFXHFDgfxgf',
+    path_api:'',
     aux:'',
   },
   mutations: {
